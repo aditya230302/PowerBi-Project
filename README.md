@@ -56,12 +56,14 @@ Top Down Analysis
 3. Shipping Costs by Customers - Scatter Plot
 4. Transactional view of underlying data
 
-![Super Store Sales Dashboard 1](https://github.com/user-attachments/assets/c059121f-530b-4475-8b33-9efec51e45a1)
+![Super Store Sales Dashboard 1](https://github.com/user-attachments/assets/aeae3a2a-1da9-45af-9c01-74ba810091b1)
+
 
 
 Bottom Up Analysis
 1. Duplicate above dashboard and change interactions .
 2. Replace Transactional View with Donut and Scatter Plot with Tree map.
 
-![Super Store Sales Dashboard 2](https://github.com/user-attachments/assets/64025717-ca58-4dd6-8ca7-75ff5eb300fc)
+![Super Store Sales Dashboard 2](https://github.com/user-attachments/assets/82cbd2e1-0558-48f9-ac92-a72de3c8b16a)
+
 
